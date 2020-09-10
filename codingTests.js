@@ -35,6 +35,18 @@
 
 
 //STEPS PROBLEM FROM UDEMY COURSE
+// Write a function that accepts a positive number N.
+// The function shoud console og a step shape with N leves using the # character
+// Make sure the step has spaces on the right hand side
+
+// Example
+// steps(4)
+//    '#   '
+//    '##  '
+//    '### '
+//    '####'
+
+
 //  function steps(n){
 //  	for(let row = 0; row < n; row++){
 //  		let stair = '';
@@ -57,6 +69,17 @@
 
 
  //PYRAMID QUESTION
+ // Write a funtion that accepts a positive number N
+ // The function should console log a pyramid shape with N levels using the
+ // character #. Make sure the pyramid has spaces on both the left and right hand
+ // sides
+
+// Example
+// pyramid(3)
+// '  #  '
+// ' ### '
+// '#####'
+
 //  function pyramid(n) {
 // 	for(let row = 0; row < n; row++){
 // 		let level = '';
@@ -107,6 +130,13 @@
 
 //////////////////////////////////////////////////////////////////
 //MATRIX PROBLEM
+// Write a function that accepts and integer N and returns a NxN spiral matrix
+
+//Example
+// matrix(3)
+// [[1, 2, 3],
+//  [8, 9, 4],
+//  [7, 6, 4]]
 
 // function matrix(n) {
 // 	const results = [];
