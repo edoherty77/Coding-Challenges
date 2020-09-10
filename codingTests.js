@@ -74,12 +74,17 @@
  // character #. Make sure the pyramid has spaces on both the left and right hand
  // sides
 
-// Example
+// Examples
 // pyramid(3)
 // '  #  '
 // ' ### '
 // '#####'
 
+// pyramid(3)
+// '   #   '
+// '  ###  '
+// ' ##### '
+// '#######'
 //  function pyramid(n) {
 // 	for(let row = 0; row < n; row++){
 // 		let level = '';
