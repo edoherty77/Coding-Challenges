@@ -36,7 +36,7 @@
 
 //STEPS PROBLEM FROM UDEMY COURSE
 // Write a function that accepts a positive number N.
-// The function shoud console og a step shape with N leves using the # character
+// The function shoud console log a step shape with N leves using the # character
 // Make sure the step has spaces on the right hand side
 
 // Example
